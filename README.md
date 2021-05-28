@@ -11,6 +11,14 @@
 ![점수 랭크](https://user-images.githubusercontent.com/60810332/119941240-4b729980-bfcb-11eb-908a-552f36f80de1.png)
 ![결과창](https://user-images.githubusercontent.com/60810332/119941242-4c0b3000-bfcb-11eb-9029-4ca700808107.png)
 
+## 개발환경
+
+JDK 15.0.1
+
+IDE : Eclipse 2020_12
+
+DB :  MariaDB 10.5.6
+
 
 ## 주요기능
 
@@ -24,7 +32,11 @@
 
 ## 시연영상
 
+<div>
+	<a href=https://youtu.be/PymbmaYfkkQ"><image src ="https://user-images.githubusercontent.com/60810332/119941229-49103f80-bfcb-11eb-982c-025464accacd.png")
+"></a>
 
+</div>
 
 ## 도큐먼트
 ![실행 방향](https://user-images.githubusercontent.com/60810332/119940595-655fac80-bfca-11eb-8faa-957d094daf72.png)
@@ -107,12 +119,4 @@
 socket통신을 활용해 1대1 대결을 넣고 해당 곡에 대한 리듬을 나누어주면 혼자 플레이를 할때보다 리듬이 더많은 곡을 줌으로서 곡의 다양성을 높일수 있고 합주가 가능해진다.
 
 
-
-## 개발환경
-
-JDK 15.0.1
-
-IDE : Eclipse 2020_12
-
-DB :  MariaDB 10.5.6
 
