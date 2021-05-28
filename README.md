@@ -2,7 +2,7 @@
 # 리듬게임(bubble pop)
 
 ## 목차
-(프로잭트주제)[https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C]
+[프로잭트주제](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
 
 ## 프로젝트 주제
 
