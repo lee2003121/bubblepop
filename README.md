@@ -123,6 +123,8 @@ Game class/Result Class/Music class/Ranking Class/ Note Class
 
 저장할떄 이용한 joptionpane.showinputdialog에 아무 값을 않넣고 확인을 눌렀을 시 null값이 반환되는것이 아닌 ""값이 반환되기 때문에 db에서 ""의 값을 unknown이라는 단어로 바꿔주기 어려워서 java에 입력을 받을때에 바꾸어주었다.
 
+### 5.게임종료
+
 ## 앞으로 개선할 것들
 
 ### 1.여러곡을 넣어주어 게임의 다양성을 높이고 easy나 hard모드 등 다양한 모드를 넣어준다.
