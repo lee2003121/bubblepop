@@ -3,21 +3,13 @@
 
 ## 목차
 [프로잭트주제](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-
 [게임이미지](https://github.com/lee2003121/bubblepop/blob/master/README.md#%EA%B2%8C%EC%9E%84-%EC%9D%B4%EB%AF%B8%EC%A7%80)
-
 [개발환경](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-
 [주요기능](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-
 [시연영상](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-
 [도큐먼트](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-
 [장점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-
 [어려웠던점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-
 [개선해야할 점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
 ## 프로젝트 주제
 
