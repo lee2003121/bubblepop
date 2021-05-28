@@ -2,15 +2,15 @@
 # 리듬게임(bubble pop)
 
 ## 목차
-[프로잭트주제](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-[게임이미지](https://github.com/lee2003121/bubblepop/blob/master/README.md#%EA%B2%8C%EC%9E%84-%EC%9D%B4%EB%AF%B8%EC%A7%80)
-[개발환경](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-[주요기능](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-[시연영상](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-[도큐먼트](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-[장점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-[어려웠던점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-[개선해야할 점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+1.[프로잭트주제](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+2.[게임이미지](https://github.com/lee2003121/bubblepop/blob/master/README.md#%EA%B2%8C%EC%9E%84-%EC%9D%B4%EB%AF%B8%EC%A7%80)
+3.[개발환경](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+4.[주요기능](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+5.[시연영상](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+6.[도큐먼트](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+7.[장점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+8.[어려웠던점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+9.[개선해야할 점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
 ## 프로젝트 주제
 
 노래에 주어진 박자를 활용해 더 정확하게 노트를 클릭하여 점수를 얻고 자신의 점수를 랭킹에 올림으로 인해 다른 플레이어들과 경쟁을 하게어 게임의 몰입과 흥미를 상승시킨다.
