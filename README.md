@@ -103,6 +103,7 @@ DB :  MariaDB 10.5.6
 ## 어려웠던 점
 
 ### 1.총괄 스레드에에서 모든 스레드를 관리하는 것
+Game class/Result Class/Music class/Ranking Class/ Note Class
 
 총괄 스레드에서 모든 스레드에 관한 내용을 관리하고 전달하는 과정을 처음 해보다보니 
 
