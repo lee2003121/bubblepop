@@ -1,6 +1,9 @@
 
 # 리듬게임(bubble pop)
 
+## 목차
+(프로잭트주제)[https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C]
+
 ## 프로젝트 주제
 
 노래에 주어진 박자를 활용해 더 정확하게 노트를 클릭하여 점수를 얻고 자신의 점수를 랭킹에 올림으로 인해 다른 플레이어들과 경쟁을 하게어 게임의 몰입과 흥미를 상승시킨다.
