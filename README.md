@@ -3,16 +3,25 @@
 
 ## 목차
 [프로잭트주제](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
-
+[게임이미지](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+[개발환경](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+[주요기능](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+[시연영상](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+[도큐먼트](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+[장점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+[어려웠던점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
+[개선해야할 점](https://github.com/lee2003121/bubblepop/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%A0%9C)
 ## 프로젝트 주제
 
 노래에 주어진 박자를 활용해 더 정확하게 노트를 클릭하여 점수를 얻고 자신의 점수를 랭킹에 올림으로 인해 다른 플레이어들과 경쟁을 하게어 게임의 몰입과 흥미를 상승시킨다.
 
+## 게임 이미지
 ![title](https://user-images.githubusercontent.com/60810332/119941229-49103f80-bfcb-11eb-982c-025464accacd.png)
 ![musicSelect](https://user-images.githubusercontent.com/60810332/119941233-4a416c80-bfcb-11eb-878f-efa90b06ded4.png)
 ![ingame](https://user-images.githubusercontent.com/60810332/119941238-4ada0300-bfcb-11eb-8d3d-f5d4b348dba0.png)
 ![점수 랭크](https://user-images.githubusercontent.com/60810332/119941240-4b729980-bfcb-11eb-908a-552f36f80de1.png)
 ![결과창](https://user-images.githubusercontent.com/60810332/119941242-4c0b3000-bfcb-11eb-9029-4ca700808107.png)
+
 
 ## 개발환경
 
